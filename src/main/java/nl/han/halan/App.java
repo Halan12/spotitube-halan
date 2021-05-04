@@ -5,6 +5,6 @@ package nl.han.halan;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("not Hello World!");
     }
 }
